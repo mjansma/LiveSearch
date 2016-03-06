@@ -1,9 +1,9 @@
 /*
-#############################################################
-### livesearch.js ###########################################
-### https://github.com/mjansma/AutoComplete/livesearch.js ###
-### Copyright 2016 M.Jansma #################################
-#############################################################
+###########################################################
+### livesearch.js #########################################
+### https://github.com/mjansma/LiveSearch/livesearch.js ###
+### Copyright 2016 M.Jansma ###############################
+###########################################################
  */
 $.fn.liveSearch = function(config) {
 	var table = $(config.table), children, searchString;
